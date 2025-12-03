@@ -1,0 +1,2 @@
+Total Campus Consumption: 7245
+Highest Consuming Building: cleaned_energy_data
